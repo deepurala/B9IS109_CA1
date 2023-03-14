@@ -41,10 +41,12 @@ DEFAULT_APPS = [
 
 THIRD_PARTY_APPS = [
     'crispy_forms',
+    'crispy_bootstrap4'
 ]
 
 LOCAL_APPS = [
     'apps.common',
+    'apps.userprofile',
 ]
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
