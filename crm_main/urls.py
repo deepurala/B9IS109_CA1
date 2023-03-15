@@ -15,9 +15,13 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from apps.common.views import HomeView, SignUpView, DashboardView
+from apps.common.views import HomeView, SignUpView, DashboardView, ProfileUpdateView, ProfileView
 
 from django.contrib.auth import views as auth_views
+
+
+from django.conf import settings
+from django.conf.urls.static import static
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -28,7 +32,8 @@ urlpatterns = [
     path('login/', auth_views.LoginView.as_view(template_name = 'common/login.html'), name='login'),
     path('logout/', auth_views.LogoutView.as_view(next_page = 'home'), name='logout'),
     
-    
+    path('profile-update/', ProfileUpdateView.as_view(), name='profile-update'),
+    path('profile/', ProfileView.as_view(), name='profile'),
     path(
         'change-password/',
         auth_views.PasswordChangeView.as_view(
@@ -64,3 +69,7 @@ urlpatterns = [
          ),
          name='password_reset_complete'),
 ]
+
+
+if settings.DEBUG:
+    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
