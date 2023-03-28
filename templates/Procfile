@@ -1,0 +1,1 @@
+web gunicron ca1CRM.wsgi:application --log-file -
