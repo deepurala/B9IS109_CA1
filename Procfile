@@ -1,1 +1,1 @@
-web gunicron ca1crm.wsgi:application --log-file -
+web gunicorn ca1crm.wsgi:application --log-file -
