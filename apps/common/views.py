@@ -10,8 +10,9 @@ from django.contrib.auth.mixins import LoginRequiredMixin
 from django.urls import reverse_lazy
 from .forms import UserForm, ProfileForm
 from django.contrib.auth.models import User
-from apps.userprofile.models import Profile
+from apps.userprofile.models import Profile, CompanyModel
 from django.contrib import messages
+from django.shortcuts import render
 
 class HomeView(TemplateView):
     template_name = 'common/home.html'
@@ -57,3 +58,8 @@ class ProfileUpdateView(LoginRequiredMixin, TemplateView):
 
     def get(self, request, *args, **kwargs):
         return self.post(request, *args, **kwargs)
+    
+
+ 
+class CompanyView(LoginRequiredMixin, TemplateView):
+    template_name = 'common/company.html'

@@ -2,6 +2,7 @@ from django.db import models
 from django.contrib.auth.models import User
 from django.db.models.signals import post_save
 from django.dispatch import receiver
+from django.db import models
 
 #Create User profiles 
 class Profile(models.Model):
@@ -24,3 +25,15 @@ def create_user_profile(sender, instance, created, **kwargs):
 @receiver(post_save, sender=User)
 def save_user_profile(sender, instance, **kwargs):
     instance.profile.save()
+
+  
+class CompanyModel(models.Model):
+ 
+    # fields of the model
+    name = models.CharField(max_length = 200)
+    description = models.TextField()
+ 
+    # renames the instances of the model
+    # with their title name
+    def __str__(self):
+        return self.title
