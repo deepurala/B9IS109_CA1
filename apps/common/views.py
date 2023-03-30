@@ -13,6 +13,7 @@ from django.contrib.auth.models import User
 from apps.userprofile.models import Profile, CompanyModel
 from django.contrib import messages
 from django.shortcuts import render
+from django.views.generic.list import ListView
 
 class HomeView(TemplateView):
     template_name = 'common/home.html'
@@ -63,3 +64,11 @@ class ProfileUpdateView(LoginRequiredMixin, TemplateView):
  
 class CompanyView(LoginRequiredMixin, TemplateView):
     template_name = 'common/company.html'
+
+
+class ContactView(LoginRequiredMixin, TemplateView):
+    template_name = 'common/contact.html'
+
+
+class ProductView(LoginRequiredMixin, TemplateView):
+    template_name = 'common/product.html'

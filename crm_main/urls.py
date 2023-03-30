@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from apps.common.views import HomeView, SignUpView, DashboardView, ProfileUpdateView, ProfileView, CompanyView
+from apps.common.views import HomeView, SignUpView, DashboardView, ProfileUpdateView, ProfileView, CompanyView, ContactView, ProductView
 
 from django.contrib.auth import views as auth_views
 
@@ -69,6 +69,8 @@ urlpatterns = [
          ),
          name='password_reset_complete'),
          path('company/', CompanyView.as_view(), name='company'),
+         path('contact/', ContactView.as_view(), name='contact'),
+         path('product/', ProductView.as_view(), name='product'),
 ]
 
 
