@@ -38,6 +38,7 @@ DEFAULT_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'company',
 ]
 
 THIRD_PARTY_APPS = [
@@ -47,7 +48,7 @@ THIRD_PARTY_APPS = [
 
 LOCAL_APPS = [
     'apps.common',
-    'apps.userprofile',
+    'apps.userprofile'
 ]
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'

@@ -19,6 +19,10 @@
   <!-- Custom styles for this template-->
   <link rel="stylesheet" href="{% static 'css/sb-admin-2.min.css' %}">
 
+   <!-- Date Time Picker CSS -->
+   <link rel="stylesheet" href="{% static 'Date-Time-Picker/jquery-ui.css' %}">
+   <link rel='stylesheet' href="{% static 'Date-Time-Picker/jquery-ui-timepicker-addon.css' %}" />
+   <!-- Date Time Picker CSS -->
 
 </head>
 
@@ -121,6 +125,48 @@
 
   </div>
   <!-- End of Page Wrapper -->
+
+
+   <!-- Bootstrap core JavaScript-->
+   <script src="{% static 'vendor/jquery/jquery.min.js' %}"></script>
+   <script src="{% static 'vendor/bootstrap/js/bootstrap.bundle.min.js' %}"></script>
+ 
+   <!-- Core plugin JavaScript-->
+   <script src="{% static 'vendor/jquery-easing/jquery.easing.min.js' %}"></script>
+ 
+   <!-- Custom scripts for all pages-->
+   <script src="{% static 'js/sb-admin-2.min.js' %}"></script>
+ 
+   <script>
+     setTimeout(function(){
+       if ($('#msg').length > 0) {
+         $('#msg').remove();
+       }
+     }, 2000)
+   </script>
+
+  <!-- Date Time Picker JS -->
+  <script src="{% static 'Date-Time-Picker/jquery-ui.js' %}" ></script>
+  <script src="{% static 'Date-Time-Picker/jquery-ui-timepicker-addon.js' %}"></script> 
+
+  <script>
+    $( function() {
+        $( "#id_birth_date" ).datepicker({ changeMonth: true, changeYear: true, dateFormat: "yy-mm-dd", yearRange: "-100:+00" }).attr("autocomplete", "off") ;});
+  </script>
+  <!-- Date Time Picker JS -->
+
+  <!-- Phone Mask JS -->
+  <script src="{% static 'Date-Time-Picker/jquery-input-mask-phone-number.min.js' %}"></script> 
+
+  <script>
+    //(xxx) xxx-xxxx format code
+    $(document).ready(function () {
+        $('#id_phone_number').usPhoneFormat({
+            format: 'xxxxxxxxxx',
+        });   
+    });
+  </script>
+  <!-- Phone Mask JS -->
 
 </body>
 
