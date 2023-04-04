@@ -62,35 +62,6 @@ class ProfileUpdateView(LoginRequiredMixin, TemplateView):
 
     def get(self, request, *args, **kwargs):
         return self.post(request, *args, **kwargs)
-    
-
- 
-class CompanyView(LoginRequiredMixin, TemplateView):
-    template_name = 'common/company.html'
-
-
-class Createcompany(View):
-    def  get(self, request):
-        name1 = request.GET.get('name', None)
-        industry1 = request.GET.get('industry', None)
-        location1 = request.GET.get('locaton', None)
-        linkedin1 = request.GET.get('linkedIn', None)
-
-        obj = companyCRUD.objects.create(
-            name = name1,
-            address = industry1,
-            location = location1,
-            linkedIn = linkedin1
-
-        )
-
-        company = {'id':obj.id,'name':obj.name,'industry':obj.industry,'location':obj.location, 'linkedIn': obj.linkedIn}
-
-        data = {
-            'company': company
-        }
-        return JsonResponse(data)
-    
 
 
 class ContactView(LoginRequiredMixin, TemplateView):
@@ -108,4 +79,3 @@ class CompanyList(ListView):
     model = companyCRUD
     template_name = 'common/company.html'
     context_object_name = 'companies'
-

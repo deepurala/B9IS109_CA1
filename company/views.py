@@ -8,10 +8,7 @@ from .models import companyCRUD
 
 # Create your views here.
 
-class CompanyList(ListView):
-    model = companyCRUD
-    template_name = 'common/company.html'
-    context_object_name = 'companies'
+
 
 #class CompanyDetail(DetailView):
  #   model = companyCRUD
