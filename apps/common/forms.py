@@ -38,12 +38,3 @@ class ProfileForm(forms.ModelForm):
             'birth_date',
             'profile_image'
         ]
-
-#class CompanyForm(forms.ModelForm):
- 
- #   class Meta:
-  #      model = CompanyModel
-   #     fields = [
-    #        "name",
-     #       "description",
-      #  ]

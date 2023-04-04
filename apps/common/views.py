@@ -15,8 +15,12 @@ from company.models import companyCRUD
 from django.contrib import messages
 from django.shortcuts import render
 from django.views.generic.list import ListView
-from django.views.generic import CreateView, UpdateView, DeleteView, DetailView, View
-from django.http import JsonResponse
+from django.views.generic import CreateView
+
+from django.shortcuts import render, get_object_or_404
+
+from rest_framework.viewsets import ModelViewSet
+from company.models import companyCRUD
 
 class HomeView(TemplateView):
     template_name = 'common/home.html'
@@ -72,10 +76,8 @@ class ProductView(LoginRequiredMixin, TemplateView):
     template_name = 'common/product.html'
 
 
-class DummyView(LoginRequiredMixin, TemplateView):
-    template_name = 'common/dummy.html'
-
-class CompanyList(ListView):
+class CompanyView(ListView):
     model = companyCRUD
     template_name = 'common/company.html'
     context_object_name = 'companies'
+
