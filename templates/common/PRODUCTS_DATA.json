@@ -1,0 +1,802 @@
+[
+    {
+        "productID": "01GS8SB8K0GKPTVCPTTR175DCH",
+        "productName": "Viva",
+        "productDescription": "Hanuman langur",
+        "price": 639,
+        "sku": "CB-42-CF-BB-B1-E0",
+        "discount": 8
+    },
+    {
+        "productID": "01GS8SB8K4B7XVZ2754KF6SF1F",
+        "productName": "Trippledex",
+        "productDescription": "Malagasy ground boa",
+        "price": 315,
+        "sku": "34-4F-CD-5F-FC-72",
+        "discount": 4
+    },
+    {
+        "productID": "01GS8SB8K7TRAGYE9RQFZE60HE",
+        "productName": "Bitwolf",
+        "productDescription": "Iguana, land",
+        "price": 566,
+        "sku": "10-97-DE-FD-13-8F",
+        "discount": 2
+    },
+    {
+        "productID": "01GS8SB8K9H3KRXG532YVM41TJ",
+        "productName": "Transcof",
+        "productDescription": "Pale-throated three-toed sloth",
+        "price": 441,
+        "sku": "1D-05-35-97-65-66",
+        "discount": 6
+    },
+    {
+        "productID": "01GS8SB8KCV86C8M0Q7TDQ5FW0",
+        "productName": "Zamit",
+        "productDescription": "Wombat, common",
+        "price": 900,
+        "sku": "FD-50-F9-5F-0D-0D",
+        "discount": 1
+    },
+    {
+        "productID": "01GS8SB8KF366NSPEW29ZNSFZH",
+        "productName": "Overhold",
+        "productDescription": "Phalarope, red-necked",
+        "price": 736,
+        "sku": "FD-A2-50-64-65-D4",
+        "discount": 9
+    },
+    {
+        "productID": "01GS8SB8KHGSBEY8Y47KJB013W",
+        "productName": "Aerified",
+        "productDescription": "Echidna, short-beaked",
+        "price": 324,
+        "sku": "CE-18-79-EA-2C-F4",
+        "discount": 9
+    },
+    {
+        "productID": "01GS8SB8KJCRHT2JN3WHK89V73",
+        "productName": "Tampflex",
+        "productDescription": "Javanese cormorant",
+        "price": 919,
+        "sku": "F3-EE-C2-92-9A-22",
+        "discount": 9
+    },
+    {
+        "productID": "01GS8SB8KMCD1QQD01201EYMCQ",
+        "productName": "Zaam-Dox",
+        "productDescription": "Sandpiper, spotted wood",
+        "price": 649,
+        "sku": "02-E7-CD-FF-33-63",
+        "discount": 2
+    },
+    {
+        "productID": "01GS8SB8KN0AX3H4V3WQ8FMHV1",
+        "productName": "Andalax",
+        "productDescription": "Arctic hare",
+        "price": 350,
+        "sku": "0A-F3-6F-2C-01-81",
+        "discount": 2
+    },
+    {
+        "productID": "01GS8SB8KPVJCDFK8PQT25B57Q",
+        "productName": "Kanlam",
+        "productDescription": "Seal, common",
+        "price": 65,
+        "sku": "36-03-7D-6B-5B-58",
+        "discount": 5
+    },
+    {
+        "productID": "01GS8SB8KRWHP08RDVCN31W9ND",
+        "productName": "Rank",
+        "productDescription": "Goose, greylag",
+        "price": 969,
+        "sku": "07-B3-B9-E3-DC-14",
+        "discount": 2
+    },
+    {
+        "productID": "01GS8SB8KSPAD8PHTN085PZ7EV",
+        "productName": "Veribet",
+        "productDescription": "Lapwing, southern",
+        "price": 235,
+        "sku": "4E-76-E8-AD-3E-57",
+        "discount": 9
+    },
+    {
+        "productID": "01GS8SB8KT86XYFHN6BKCWQJQD",
+        "productName": "Otcom",
+        "productDescription": "Pelican, brown",
+        "price": 754,
+        "sku": "B9-79-C2-9A-2E-83",
+        "discount": 9
+    },
+    {
+        "productID": "01GS8SB8KV8Y9MJC5CV1Y3394X",
+        "productName": "Quo Lux",
+        "productDescription": "Dragon, komodo",
+        "price": 476,
+        "sku": "66-A5-02-2C-D0-F3",
+        "discount": 6
+    },
+    {
+        "productID": "01GS8SB8KWXJ29HHFRGWYMJN6C",
+        "productName": "Ronstring",
+        "productDescription": "Trumpeter swan",
+        "price": 836,
+        "sku": "7E-BD-3F-5A-D6-9B",
+        "discount": 4
+    },
+    {
+        "productID": "01GS8SB8KYX1459EP74NCH3TZM",
+        "productName": "Voltsillam",
+        "productDescription": "Stork, white",
+        "price": 612,
+        "sku": "AF-FC-5D-E0-8E-22",
+        "discount": 10
+    },
+    {
+        "productID": "01GS8SB8KZ5Y8Z3P0ZPJY4NHNC",
+        "productName": "Gembucket",
+        "productDescription": "Stork, woolly-necked",
+        "price": 452,
+        "sku": "F6-E9-4A-E6-46-AB",
+        "discount": 9
+    },
+    {
+        "productID": "01GS8SB8M06XQEQ5RFHKPK65TB",
+        "productName": "Zathin",
+        "productDescription": "Kangaroo, jungle",
+        "price": 82,
+        "sku": "65-A2-02-FB-72-77",
+        "discount": 7
+    },
+    {
+        "productID": "01GS8SB8M2TJ9PX0ZHWTGB8XF4",
+        "productName": "Redhold",
+        "productDescription": "Civet, small-toothed palm",
+        "price": 745,
+        "sku": "CF-86-E9-02-86-F7",
+        "discount": 4
+    },
+    {
+        "productID": "01GS8SB8M3NM40XP78SKZB4WVE",
+        "productName": "It",
+        "productDescription": "Cockatoo, red-breasted",
+        "price": 128,
+        "sku": "95-ED-41-03-11-EB",
+        "discount": 6
+    },
+    {
+        "productID": "01GS8SB8M47KE0EPMJAYRN1XG5",
+        "productName": "Y-Solowarm",
+        "productDescription": "Desert kangaroo rat",
+        "price": 888,
+        "sku": "D7-41-DA-A3-95-40",
+        "discount": 8
+    },
+    {
+        "productID": "01GS8SB8M5E5K98WZR4WCN9BA9",
+        "productName": "Zamit",
+        "productDescription": "Ferret, black-footed",
+        "price": 89,
+        "sku": "C6-84-0B-2B-85-24",
+        "discount": 1
+    },
+    {
+        "productID": "01GS8SB8M6X9A8P28KD23X4ZY0",
+        "productName": "Job",
+        "productDescription": "African pied wagtail",
+        "price": 204,
+        "sku": "0E-34-9E-22-CE-E4",
+        "discount": 6
+    },
+    {
+        "productID": "01GS8SB8M71G15V9E1F4V8TZAP",
+        "productName": "Zamit",
+        "productDescription": "Insect, stick",
+        "price": 317,
+        "sku": "C3-93-7A-61-9A-F4",
+        "discount": 4
+    },
+    {
+        "productID": "01GS8SB8M879W30S1JRZ9QHBQS",
+        "productName": "Domainer",
+        "productDescription": "Green-backed heron",
+        "price": 734,
+        "sku": "59-C5-33-61-A1-D7",
+        "discount": 8
+    },
+    {
+        "productID": "01GS8SB8M9JQ4HJKSD8XVNR1CZ",
+        "productName": "Solarbreeze",
+        "productDescription": "Lynx, african",
+        "price": 837,
+        "sku": "0F-46-E6-C7-11-3E",
+        "discount": 10
+    },
+    {
+        "productID": "01GS8SB8MA85JE5S3F3YPBZKCN",
+        "productName": "Stringtough",
+        "productDescription": "Spider, wolf",
+        "price": 577,
+        "sku": "82-79-0D-EC-7B-3B",
+        "discount": 1
+    },
+    {
+        "productID": "01GS8SB8MBBMTTSQH25DKNA1CA",
+        "productName": "Viva",
+        "productDescription": "Phalarope, northern",
+        "price": 159,
+        "sku": "E6-00-0B-2F-6A-3E",
+        "discount": 9
+    },
+    {
+        "productID": "01GS8SB8MD3H5WX2KK2GXE4AA2",
+        "productName": "Ventosanzap",
+        "productDescription": "Phalarope, northern",
+        "price": 559,
+        "sku": "23-12-93-57-28-30",
+        "discount": 2
+    },
+    {
+        "productID": "01GS8SB8MEFZ783VQE0Y6T0V0F",
+        "productName": "Tresom",
+        "productDescription": "Anteater, australian spiny",
+        "price": 380,
+        "sku": "8B-57-CF-09-F5-33",
+        "discount": 1
+    },
+    {
+        "productID": "01GS8SB8MFQZVCHKCQEBPKYWXW",
+        "productName": "Solarbreeze",
+        "productDescription": "Eland, common",
+        "price": 117,
+        "sku": "1B-DE-D2-64-AD-C9",
+        "discount": 3
+    },
+    {
+        "productID": "01GS8SB8MGH5ZNZBF5W9FXQZHW",
+        "productName": "Biodex",
+        "productDescription": "Eagle, pallas's fish",
+        "price": 522,
+        "sku": "41-0F-A1-2D-EB-0A",
+        "discount": 3
+    },
+    {
+        "productID": "01GS8SB8MHAEZA8KTKX63V3XKE",
+        "productName": "Solarbreeze",
+        "productDescription": "Iguana, marine",
+        "price": 165,
+        "sku": "43-0A-65-B1-5C-9B",
+        "discount": 5
+    },
+    {
+        "productID": "01GS8SB8MJYNSQSDQP5Q96A2PZ",
+        "productName": "Zoolab",
+        "productDescription": "Wallaby, dama",
+        "price": 476,
+        "sku": "46-B0-C7-C8-2A-C7",
+        "discount": 7
+    },
+    {
+        "productID": "01GS8SB8MK0E2WE0M505J4VX01",
+        "productName": "Tres-Zap",
+        "productDescription": "Eastern indigo snake",
+        "price": 518,
+        "sku": "7A-56-C7-2D-2E-4A",
+        "discount": 6
+    },
+    {
+        "productID": "01GS8SB8MMSY6NDM3YX3BHVNFG",
+        "productName": "Andalax",
+        "productDescription": "Lemur, ring-tailed",
+        "price": 538,
+        "sku": "5E-65-73-48-68-26",
+        "discount": 8
+    },
+    {
+        "productID": "01GS8SB8MNG24XE3BEGY75AZR1",
+        "productName": "Stronghold",
+        "productDescription": "Turkey, wild",
+        "price": 745,
+        "sku": "FF-CA-7A-FC-F6-0C",
+        "discount": 7
+    },
+    {
+        "productID": "01GS8SB8MPATBCF2AP707ZNDAB",
+        "productName": "Gembucket",
+        "productDescription": "Baboon, yellow",
+        "price": 715,
+        "sku": "68-9D-7F-D6-EA-19",
+        "discount": 2
+    },
+    {
+        "productID": "01GS8SB8MRQW47Z1BPP13K64TJ",
+        "productName": "Konklab",
+        "productDescription": "Kirk's dik dik",
+        "price": 295,
+        "sku": "E5-80-D7-4F-D0-97",
+        "discount": 9
+    },
+    {
+        "productID": "01GS8SB8MSTWB1WP3R9ZQTM3WM",
+        "productName": "Prodder",
+        "productDescription": "Asian elephant",
+        "price": 830,
+        "sku": "3C-95-AC-D4-4A-0C",
+        "discount": 7
+    },
+    {
+        "productID": "01GS8SB8MT5796KEQ1JZDXRDTQ",
+        "productName": "Tresom",
+        "productDescription": "Fox, arctic",
+        "price": 274,
+        "sku": "B8-8A-AA-00-6D-11",
+        "discount": 7
+    },
+    {
+        "productID": "01GS8SB8MVWG5VCEM7WSTFJ35N",
+        "productName": "Subin",
+        "productDescription": "Purple moorhen",
+        "price": 825,
+        "sku": "56-D3-89-5E-9A-D1",
+        "discount": 8
+    },
+    {
+        "productID": "01GS8SB8MWR4PST9AB4Z04SPTX",
+        "productName": "Latlux",
+        "productDescription": "Alligator, american",
+        "price": 563,
+        "sku": "46-8D-A7-CF-E6-37",
+        "discount": 9
+    },
+    {
+        "productID": "01GS8SB8MXDJJH9RWNRTG6QAMR",
+        "productName": "Zamit",
+        "productDescription": "Buffalo, american",
+        "price": 819,
+        "sku": "20-B3-50-0B-4F-6B",
+        "discount": 3
+    },
+    {
+        "productID": "01GS8SB8MY4VPH5CVA1JNF2Q43",
+        "productName": "Konklux",
+        "productDescription": "Lizard, mexican beaded",
+        "price": 957,
+        "sku": "7D-FD-3E-C0-90-5E",
+        "discount": 7
+    },
+    {
+        "productID": "01GS8SB8N0NBMVGVGM8H27DCCH",
+        "productName": "Flexidy",
+        "productDescription": "Eagle, crowned",
+        "price": 758,
+        "sku": "D7-66-6C-F2-17-11",
+        "discount": 3
+    },
+    {
+        "productID": "01GS8SB8N1HZQ3D6G8XZ3E5JGY",
+        "productName": "Bytecard",
+        "productDescription": "Bleeding heart monkey",
+        "price": 993,
+        "sku": "F2-EE-11-4D-97-F8",
+        "discount": 9
+    },
+    {
+        "productID": "01GS8SB8N2HW1FS7TXYC17EW6C",
+        "productName": "Sonsing",
+        "productDescription": "Violet-crested turaco",
+        "price": 383,
+        "sku": "54-3A-A2-57-76-2A",
+        "discount": 6
+    },
+    {
+        "productID": "01GS8SB8N3R0DWX8561G4QADKJ",
+        "productName": "Gembucket",
+        "productDescription": "Oribi",
+        "price": 168,
+        "sku": "CA-B3-5E-F9-A6-09",
+        "discount": 3
+    },
+    {
+        "productID": "01GS8SB8N405T9AJZFVG275JVH",
+        "productName": "Quo Lux",
+        "productDescription": "Western lowland gorilla",
+        "price": 164,
+        "sku": "93-15-50-8F-59-EB",
+        "discount": 7
+    },
+    {
+        "productID": "01GS8SB8N5FRRE243BN47S3ABN",
+        "productName": "Zamit",
+        "productDescription": "Giant otter",
+        "price": 87,
+        "sku": "E1-A7-C9-CD-15-20",
+        "discount": 5
+    },
+    {
+        "productID": "01GS8SB8N6370RZG8FTF4P57KB",
+        "productName": "Sub-Ex",
+        "productDescription": "Polecat, african",
+        "price": 487,
+        "sku": "81-30-10-17-6F-71",
+        "discount": 10
+    },
+    {
+        "productID": "01GS8SB8N8YK0V3W1XTDGG1480",
+        "productName": "Fix San",
+        "productDescription": "Rainbow lory",
+        "price": 247,
+        "sku": "5D-B0-C4-65-FA-A6",
+        "discount": 2
+    },
+    {
+        "productID": "01GS8SB8N9HTJZKHY26W7Z9SHV",
+        "productName": "Prodder",
+        "productDescription": "Common palm civet",
+        "price": 284,
+        "sku": "0D-3A-C0-5E-17-BA",
+        "discount": 8
+    },
+    {
+        "productID": "01GS8SB8NAXZ9QRBYEDRFSPW89",
+        "productName": "Regrant",
+        "productDescription": "Gull, kelp",
+        "price": 385,
+        "sku": "34-C3-1D-27-DC-2F",
+        "discount": 7
+    },
+    {
+        "productID": "01GS8SB8NBBGVQXC310W6HQAC9",
+        "productName": "Subin",
+        "productDescription": "Possum, common brushtail",
+        "price": 261,
+        "sku": "6A-D6-B2-56-03-24",
+        "discount": 2
+    },
+    {
+        "productID": "01GS8SB8NCV6E2TXVZNFXA92V8",
+        "productName": "Mat Lam Tam",
+        "productDescription": "Gray heron",
+        "price": 991,
+        "sku": "3B-D3-4A-51-18-F1",
+        "discount": 5
+    },
+    {
+        "productID": "01GS8SB8ND0TRA9D327RXRG532",
+        "productName": "Home Ing",
+        "productDescription": "Kangaroo, brush-tailed rat",
+        "price": 54,
+        "sku": "51-8D-5A-A4-BA-D1",
+        "discount": 1
+    },
+    {
+        "productID": "01GS8SB8NETAGM64HGKQAGC00Z",
+        "productName": "Zoolab",
+        "productDescription": "Sea birds (unidentified)",
+        "price": 107,
+        "sku": "C8-7D-7D-9F-49-0B",
+        "discount": 4
+    },
+    {
+        "productID": "01GS8SB8NFG36WHZJM5RHZ94DX",
+        "productName": "Quo Lux",
+        "productDescription": "Boa, emerald green tree",
+        "price": 451,
+        "sku": "6A-65-68-D7-B2-BB",
+        "discount": 10
+    },
+    {
+        "productID": "01GS8SB8NHDYR2FZWSDWQXA38S",
+        "productName": "Overhold",
+        "productDescription": "Otter, small-clawed",
+        "price": 472,
+        "sku": "53-9F-C0-77-CA-E5",
+        "discount": 10
+    },
+    {
+        "productID": "01GS8SB8NJ42RHCD9J5Z981575",
+        "productName": "Stringtough",
+        "productDescription": "Columbian rainbow boa",
+        "price": 366,
+        "sku": "0B-1E-16-50-5F-5B",
+        "discount": 5
+    },
+    {
+        "productID": "01GS8SB8NKSH0PS744ZANW29PF",
+        "productName": "Veribet",
+        "productDescription": "Great egret",
+        "price": 128,
+        "sku": "D0-12-DD-A8-C9-0C",
+        "discount": 5
+    },
+    {
+        "productID": "01GS8SB8NMYWH10ACC3ZVMV125",
+        "productName": "Zoolab",
+        "productDescription": "Gazelle, grant's",
+        "price": 719,
+        "sku": "73-44-BC-56-7C-BD",
+        "discount": 6
+    },
+    {
+        "productID": "01GS8SB8NNJ51Z58RZSMGN17B1",
+        "productName": "Bitchip",
+        "productDescription": "Lion, california sea",
+        "price": 443,
+        "sku": "7B-50-E2-42-CB-1B",
+        "discount": 3
+    },
+    {
+        "productID": "01GS8SB8NQC9SRJXJP9ETR6YQA",
+        "productName": "Holdlamis",
+        "productDescription": "Corella, long-billed",
+        "price": 954,
+        "sku": "3A-48-2B-CE-F2-27",
+        "discount": 2
+    },
+    {
+        "productID": "01GS8SB8NRS98YFYMQ43EC4K40",
+        "productName": "Holdlamis",
+        "productDescription": "Arctic hare",
+        "price": 707,
+        "sku": "BA-C5-1D-2E-29-41",
+        "discount": 2
+    },
+    {
+        "productID": "01GS8SB8NSCNRHWZ3N0BA44MJ5",
+        "productName": "Aerified",
+        "productDescription": "Yellow-billed hornbill",
+        "price": 601,
+        "sku": "0A-70-59-C1-52-ED",
+        "discount": 2
+    },
+    {
+        "productID": "01GS8SB8NT25YP93EGC7Q1GSET",
+        "productName": "Y-Solowarm",
+        "productDescription": "Cook's tree boa",
+        "price": 317,
+        "sku": "BB-44-E2-15-97-F5",
+        "discount": 7
+    },
+    {
+        "productID": "01GS8SB8NVSMG2JG59EWQVM6RT",
+        "productName": "Asoka",
+        "productDescription": "Thrasher, curve-billed",
+        "price": 293,
+        "sku": "DC-E4-F5-81-79-B5",
+        "discount": 6
+    },
+    {
+        "productID": "01GS8SB8NX7BZS4V5J9W8M05GV",
+        "productName": "Overhold",
+        "productDescription": "Magpie, australian",
+        "price": 645,
+        "sku": "B7-EF-19-0D-17-84",
+        "discount": 8
+    },
+    {
+        "productID": "01GS8SB8NYDR50RW8J73MHQY36",
+        "productName": "Trippledex",
+        "productDescription": "Numbat",
+        "price": 374,
+        "sku": "C8-D9-BA-58-3C-96",
+        "discount": 9
+    },
+    {
+        "productID": "01GS8SB8NZNW4M2H12FMBVRWQK",
+        "productName": "Hatity",
+        "productDescription": "Eurasian beaver",
+        "price": 796,
+        "sku": "54-43-6A-2E-AA-54",
+        "discount": 10
+    },
+    {
+        "productID": "01GS8SB8P1PAM20CTYRXVBDYHT",
+        "productName": "Aerified",
+        "productDescription": "Black-capped capuchin",
+        "price": 273,
+        "sku": "F3-09-72-F6-FA-C4",
+        "discount": 1
+    },
+    {
+        "productID": "01GS8SB8P2Q8WT026WSB3HZN5G",
+        "productName": "Y-Solowarm",
+        "productDescription": "Burmese brown mountain tortoise",
+        "price": 672,
+        "sku": "D7-BF-AD-48-E5-B8",
+        "discount": 9
+    },
+    {
+        "productID": "01GS8SB8P3C4Y0SRYE3MYZ1Q0H",
+        "productName": "Subin",
+        "productDescription": "Bee-eater, white-fronted",
+        "price": 95,
+        "sku": "13-C3-EE-7D-80-E9",
+        "discount": 2
+    },
+    {
+        "productID": "01GS8SB8P4VWJ53M2BZGFBATPK",
+        "productName": "Flexidy",
+        "productDescription": "Red-billed tropic bird",
+        "price": 298,
+        "sku": "A9-27-2E-B6-3B-14",
+        "discount": 4
+    },
+    {
+        "productID": "01GS8SB8P79B2436PVRKZED9T1",
+        "productName": "Aerified",
+        "productDescription": "Chilean flamingo",
+        "price": 572,
+        "sku": "EB-04-91-5A-1E-69",
+        "discount": 2
+    },
+    {
+        "productID": "01GS8SB8PANZGXG7VHQ131TTFA",
+        "productName": "Tres-Zap",
+        "productDescription": "Cockatoo, red-breasted",
+        "price": 555,
+        "sku": "EA-29-42-DA-34-DE",
+        "discount": 4
+    },
+    {
+        "productID": "01GS8SB8PCPKW40WEG37AF9YWM",
+        "productName": "Regrant",
+        "productDescription": "Bush dog",
+        "price": 953,
+        "sku": "D2-80-E6-5F-0C-3E",
+        "discount": 7
+    },
+    {
+        "productID": "01GS8SB8PEFT4J15FPAN40441P",
+        "productName": "Zamit",
+        "productDescription": "Steenbuck",
+        "price": 454,
+        "sku": "61-90-5F-0D-EB-9C",
+        "discount": 8
+    },
+    {
+        "productID": "01GS8SB8PH9SVAH7FYW99ECBMQ",
+        "productName": "Otcom",
+        "productDescription": "Toddy cat",
+        "price": 345,
+        "sku": "CD-5A-E2-A2-F4-B3",
+        "discount": 10
+    },
+    {
+        "productID": "01GS8SB8PK7EGKBPQNM42JB4N2",
+        "productName": "Regrant",
+        "productDescription": "Penguin, little blue",
+        "price": 362,
+        "sku": "F8-03-C6-EE-7B-F4",
+        "discount": 8
+    },
+    {
+        "productID": "01GS8SB8PP1QZMBTAW1CGAZ2EQ",
+        "productName": "Konklab",
+        "productDescription": "Mockingbird, galapagos",
+        "price": 757,
+        "sku": "97-B7-EE-54-C5-AF",
+        "discount": 9
+    },
+    {
+        "productID": "01GS8SB8PR15HHDNR9FNH3FSXA",
+        "productName": "Andalax",
+        "productDescription": "Arctic lemming",
+        "price": 378,
+        "sku": "A9-54-0A-10-D9-70",
+        "discount": 8
+    },
+    {
+        "productID": "01GS8SB8PVAWTHFQV377KK5RAM",
+        "productName": "Gembucket",
+        "productDescription": "Goat, mountain",
+        "price": 190,
+        "sku": "98-57-EB-EF-62-36",
+        "discount": 5
+    },
+    {
+        "productID": "01GS8SB8PXZ9KZ760KQDY2NGBB",
+        "productName": "Regrant",
+        "productDescription": "Baboon, savanna",
+        "price": 52,
+        "sku": "2F-41-2C-DA-D1-49",
+        "discount": 5
+    },
+    {
+        "productID": "01GS8SB8PZRBNQ03X9W8W2FZJF",
+        "productName": "Tres-Zap",
+        "productDescription": "Gambel's quail",
+        "price": 265,
+        "sku": "EC-4E-DB-15-07-CE",
+        "discount": 5
+    },
+    {
+        "productID": "01GS8SB8Q1CNXDP90XBMC51SN2",
+        "productName": "Quo Lux",
+        "productDescription": "Bulbul, black-fronted",
+        "price": 661,
+        "sku": "5E-78-15-F3-B4-FC",
+        "discount": 1
+    },
+    {
+        "productID": "01GS8SB8Q4WKXD90FREJBNNXTJ",
+        "productName": "Alphazap",
+        "productDescription": "Paradoxure",
+        "price": 197,
+        "sku": "D8-8A-47-0D-06-22",
+        "discount": 4
+    },
+    {
+        "productID": "01GS8SB8Q7TD2V7CWS7PWJ7JFH",
+        "productName": "Greenlam",
+        "productDescription": "Bohor reedbuck",
+        "price": 639,
+        "sku": "EE-A9-95-FF-70-CA",
+        "discount": 1
+    },
+    {
+        "productID": "01GS8SB8Q9526XZ6HESJ4K3J2N",
+        "productName": "Fix San",
+        "productDescription": "Cormorant, neotropic",
+        "price": 814,
+        "sku": "89-71-37-0A-B1-5A",
+        "discount": 8
+    },
+    {
+        "productID": "01GS8SB8QC7X83KXCK62K1TQCB",
+        "productName": "Transcof",
+        "productDescription": "Antelope ground squirrel",
+        "price": 485,
+        "sku": "B2-2C-02-54-ED-E1",
+        "discount": 1
+    },
+    {
+        "productID": "01GS8SB8QE95D5AZ1N3B2P2E9T",
+        "productName": "Greenlam",
+        "productDescription": "Grant's gazelle",
+        "price": 273,
+        "sku": "93-DA-67-56-67-F4",
+        "discount": 8
+    },
+    {
+        "productID": "01GS8SB8QHXY77H6S6KAYP66GE",
+        "productName": "Gembucket",
+        "productDescription": "Southern brown bandicoot",
+        "price": 471,
+        "sku": "72-D7-94-F3-77-BF",
+        "discount": 5
+    },
+    {
+        "productID": "01GS8SB8QKMXEMBNBNF6DA0MPH",
+        "productName": "Ventosanzap",
+        "productDescription": "Black-crowned crane",
+        "price": 770,
+        "sku": "7F-8E-CE-BD-C0-1D",
+        "discount": 3
+    },
+    {
+        "productID": "01GS8SB8QN5D26C5YSAG0QQJG8",
+        "productName": "Voltsillam",
+        "productDescription": "Palm squirrel",
+        "price": 761,
+        "sku": "71-90-23-D5-6E-74",
+        "discount": 4
+    },
+    {
+        "productID": "01GS8SB8QRGZGQ9GQ465SD551G",
+        "productName": "Flowdesk",
+        "productDescription": "Eastern white pelican",
+        "price": 327,
+        "sku": "21-51-B8-9D-01-71",
+        "discount": 7
+    },
+    {
+        "productID": "01GS8SB8QT2P6H6S35SAKF49M4",
+        "productName": "Tresom",
+        "productDescription": "European stork",
+        "price": 762,
+        "sku": "D1-72-66-6C-56-42",
+        "discount": 6
+    }
+]

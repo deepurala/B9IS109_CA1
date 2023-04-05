@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-3lnee1#-!*3uv$#$bnx#mec(@=ca)(0+uhaa!y@7(1!=!c8t1)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ca1CRM.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -148,6 +148,11 @@ except ImportError:
 LOGIN_REDIRECT_URL = 'dashboard'
 
 # Print email in Console.
-EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_HOST = 'smtp.sendgrid.net'
+EMAIT_PORT = 587
+EMAIL_USE_TLS = True
+EMAIL_HOST_USER = 'apikey'
+EMAIL_HOST_PASSWORD = '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'
 
 django_heroku.settings(locals())

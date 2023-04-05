@@ -68,14 +68,6 @@ class ProfileUpdateView(LoginRequiredMixin, TemplateView):
         return self.post(request, *args, **kwargs)
 
 
-class ContactView(LoginRequiredMixin, TemplateView):
-    template_name = 'common/contact.html'
-
-
-class ProductView(LoginRequiredMixin, TemplateView):
-    template_name = 'common/product.html'
-
-
 class CompanyView(ListView):
     model = companyCRUD
     template_name = 'common/company.html'
