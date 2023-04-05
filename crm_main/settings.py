@@ -14,8 +14,6 @@ import os
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-import django_heroku
-import dj_database_url
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
@@ -154,5 +152,3 @@ EMAIT_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'apikey'
 EMAIL_HOST_PASSWORD = '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'
-
-django_heroku.settings(locals())
