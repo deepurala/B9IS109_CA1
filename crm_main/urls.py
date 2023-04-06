@@ -70,6 +70,7 @@ urlpatterns = [
          ),
          name='password_reset_complete'),
     path('company/', CompanyView.as_view(), name='company'),
+    path('oauth/', include('social_django.urls', namespace='social')),
 ]
 
 

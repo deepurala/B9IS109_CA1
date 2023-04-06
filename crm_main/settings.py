@@ -36,12 +36,13 @@ DEFAULT_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'company',
+    'company'
 ]
 
 THIRD_PARTY_APPS = [
     'crispy_forms',
-    'crispy_bootstrap4'
+    'crispy_bootstrap4',
+    'social_django'
 ]
 
 LOCAL_APPS = [
@@ -63,6 +64,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'social_django.middleware.SocialAuthExceptionMiddleware'
 ]
 
 ROOT_URLCONF = 'crm_main.urls'
@@ -78,10 +80,19 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
+                'social_django.context_processors.backends', 
+                'social_django.context_processors.login_redirect', 
             ],
         },
     },
 ]
+
+AUTHENTICATION_BACKENDS = (
+    'social_core.backends.facebook.FacebookOAuth2',
+    'social_core.backends.twitter.TwitterOAuth',
+    'social_core.backends.github.GithubOAuth2',
+    'django.contrib.auth.backends.ModelBackend',
+)
 
 WSGI_APPLICATION = 'crm_main.wsgi.application'
 
@@ -165,3 +176,6 @@ EMAIL_HOST = 'smtp.freesmtpservers.com'
 EMAIT_PORT = 25
 EMAIL_AUTH = None
 '''
+
+SOCIAL_AUTH_GITHUB_KEY = '81abad44cc812100d2ac'
+SOCIAL_AUTH_GITHUB_SECRET = '1ce9486ee54df1498b42073b2384ffbdcf826084' 
